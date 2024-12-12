@@ -1,0 +1,11 @@
+,Date,Store,Region,Product,Quantity,Revenue
+0,2023-01-01,Store A,North,Laptop,5,2500
+1,2023-01-02,Store B,South,Phone,10,1500
+2,2023-02-05,Store A,North,Tablet,7,2100
+3,2023-03-12,Store C,East,Laptop,3,1500
+4,2023-04-08,Store B,South,Phone,8,2000
+5,2023-05-15,Store A,West,Tablet,6,1800
+6,2023-06-20,Store C,East,Laptop,4,2000
+7,2023-07-25,Store A,North,Phone,9,1600
+8,2023-08-17,Store B,South,Tablet,5,2100
+9,2023-09-10,Store C,West,Laptop,2,2200
