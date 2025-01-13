@@ -1,0 +1,12 @@
+,Customer_ID,Name,Age,Email,Region,Order_ID,Product_ID,Quantity,Order_Date,Total_Amount,Remarks,Unit_Price,Product_Name,Category,Price,Stock_Quantity
+0,C001,John Smith,30,john.smith@example.com,North,O001,P001,2,2025-01-10,1600.0,Delivered,800.0,Laptop,Electronics,800,50
+1,C005,David Brown,45,david.brown@example.com,North,O006,P001,1,2025-01-11,800.0,Cancelled,800.0,Laptop,Electronics,800,50
+2,C001,John Smith,30,john.smith@example.com,North,O005,P005,1,2025-01-11,100.0,Delivered,100.0,Wireless Headset,Electronics,100,150
+3,C009,James Miller,50,james.miller@example.com,North,O010,P005,1,2025-01-11,100.0,Pending,100.0,Wireless Headset,Electronics,100,150
+4,C002,Sarah Jones,25,sarah.jones@example.com,South,O002,P002,1,2025-01-11,600.0,Pending,600.0,Smartphone,Electronics,600,200
+5,C006,Laura Wilson,29,laura.wilson@example.com,South,O007,P002,2,2025-01-12,1200.0,Pending,600.0,Smartphone,Electronics,600,200
+6,C010,Anna White,28,anna.white@example.com,South,O011,P002,3,2025-01-12,1800.0,Delivered,600.0,Smartphone,Electronics,600,200
+7,C002,Sarah Jones,25,sarah.jones@example.com,South,O013,P003,2,2025-01-11,300.0,Delivered,150.0,Office Chair,Furniture,150,100
+8,C003,Michael Lee,40,michael.lee@example.com,East,O003,P003,3,2025-01-12,450.0,Delivered,150.0,Office Chair,Furniture,150,100
+9,C004,Emily Davis,35,emily.davis@example.com,West,O004,P004,10,2025-01-10,50.0,Pending,5.0,Notebook,Stationery,5,500
+10,C004,Emily Davis,35,emily.davis@example.com,West,O012,P004,7,2025-01-10,35.0,Pending,5.0,Notebook,Stationery,5,500
