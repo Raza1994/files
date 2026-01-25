@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,Age,Country,Order_Value,Order_Date,Channel,Assigned_Manager,Escalation_Reason,Customer_Code,Contact_Email,Remarks
+,,,,,,,,,,,
+,,,,,,,,,,,
+1001.0,Ravi,25.0,India,25000.0,2023-01-10,Online,RM_Amit,,IND-RAVI-001,ravi@gmail.com,
+1002.0,Anita ,200.0, india,,2023/02/15,Online,,,IND-ANITA-002,anita@gmail.com,
+1003.0,john,30.0,USA,18000.0,2023-02-15,Store,,,USA-JOHN-003,john@yahoo.com,
+1003.0,john,30.0,usA,18000.0,2023-02-15,Online,,,USA-JOHN-003,john@yahoo.com,
+1003.0,john,30.0,usA,18000.0,2023-02-15,Online,,,USA-JOHN-003,john@yahoo.com,
+1004.0,,,India,400000.0,invalid,Online,,,IND-UNK-004,,
+1005.0,Meera,28.0,,22000.0,2023-03-01,Online,RM_Suresh,,IND-MEERA-005,meera@gmail.com,
+1006.0,karan,33.0,India,15000.0,2023-03-03,Online,,Payment Failure,IND-KARAN-006,karan@gmail.com,
