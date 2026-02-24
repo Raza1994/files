@@ -1,0 +1,101 @@
+review_id,product_name,rating,review_text,review_date
+1,Smartphone X12,2,Great quality and fast delivery. Highly recommended!,04-11-2025
+2,Smartphone X12,1,Stopped working after a few days.,28-02-2025
+3,Smartphone X12,3,Delivery was on time but packaging was basic.,26-02-2025
+4,Wireless Earbuds Pro,5,Customer support was not helpful at all.,16-10-2025
+5,Laptop Air 14,2,Delivery was on time but packaging was basic.,16-06-2025
+6,Fitness Tracker Z,5,Stopped working after a few days.,09-04-2025
+7,Fitness Tracker Z,5,Not worth the price.,16-04-2025
+8,Fitness Tracker Z,1,Customer support was not helpful at all.,14-11-2025
+9,Laptop Air 14,5,"Absolutely love the product, it exceeded my expectations.",02-01-2026
+10,Bluetooth Speaker Max,5,It's fine for the price.,31-08-2025
+11,Wireless Earbuds Pro,1,Delivery was on time but packaging was basic.,17-05-2025
+12,Bluetooth Speaker Max,2,"Not bad, but could be improved.",27-01-2026
+13,Fitness Tracker Z,2,Delivery was on time but packaging was basic.,30-01-2026
+14,Wireless Earbuds Pro,4,"Not bad, but could be improved.",16-02-2026
+15,Bluetooth Speaker Max,4,Worth the money. Would definitely buy again.,23-04-2025
+16,Fitness Tracker Z,3,Great quality and fast delivery. Highly recommended!,20-05-2025
+17,Bluetooth Speaker Max,2,Delivery was on time but packaging was basic.,18-02-2026
+18,Smartphone X12,2,"Not bad, but could be improved.",08-01-2026
+19,Wireless Earbuds Pro,1,Delivery was on time but packaging was basic.,18-12-2025
+20,Wireless Earbuds Pro,3,Delivery was on time but packaging was basic.,02-01-2026
+21,Bluetooth Speaker Max,3,Not worth the price.,08-10-2025
+22,Bluetooth Speaker Max,4,Excellent build quality and easy to use.,07-10-2025
+23,Laptop Air 14,5,"The product is okay, does the job.",12-04-2025
+24,Smartphone X12,1,Very disappointed with the product quality.,05-12-2025
+25,Bluetooth Speaker Max,1,Excellent build quality and easy to use.,16-03-2025
+26,Fitness Tracker Z,1,Very disappointed with the product quality.,16-08-2025
+27,Fitness Tracker Z,1,Delivery was on time but packaging was basic.,24-10-2025
+28,Wireless Earbuds Pro,2,Delivery was on time but packaging was basic.,07-02-2026
+29,Wireless Earbuds Pro,5,The product arrived damaged.,27-12-2025
+30,Smartphone X12,2,Very satisfied with the performance and battery life.,26-07-2025
+31,Smartphone X12,5,Very disappointed with the product quality.,30-01-2026
+32,Fitness Tracker Z,2,It's fine for the price.,30-03-2025
+33,Smartphone X12,2,Very disappointed with the product quality.,24-01-2026
+34,Laptop Air 14,2,"Not bad, but could be improved.",07-08-2025
+35,Laptop Air 14,3,"The product is okay, does the job.",20-03-2025
+36,Wireless Earbuds Pro,1,Customer support was not helpful at all.,29-03-2025
+37,Wireless Earbuds Pro,2,"Absolutely love the product, it exceeded my expectations.",03-02-2026
+38,Bluetooth Speaker Max,3,Customer support was not helpful at all.,06-09-2025
+39,Laptop Air 14,5,"Average experience, nothing extraordinary.",24-03-2025
+40,Fitness Tracker Z,5,Very satisfied with the performance and battery life.,19-08-2025
+41,Smartphone X12,4,Very satisfied with the performance and battery life.,19-06-2025
+42,Smartphone X12,1,Great quality and fast delivery. Highly recommended!,30-05-2025
+43,Smartphone X12,3,The product arrived damaged.,26-12-2025
+44,Wireless Earbuds Pro,2,Stopped working after a few days.,15-01-2026
+45,Bluetooth Speaker Max,2,Excellent build quality and easy to use.,14-06-2025
+46,Laptop Air 14,1,Delivery was on time but packaging was basic.,29-07-2025
+47,Wireless Earbuds Pro,3,Customer support was not helpful at all.,21-11-2025
+48,Laptop Air 14,2,"The product is okay, does the job.",14-03-2025
+49,Fitness Tracker Z,4,"Absolutely love the product, it exceeded my expectations.",23-12-2025
+50,Wireless Earbuds Pro,2,Very satisfied with the performance and battery life.,09-05-2025
+51,Laptop Air 14,5,Customer support was not helpful at all.,04-01-2026
+52,Wireless Earbuds Pro,1,"The product is okay, does the job.",06-04-2025
+53,Laptop Air 14,4,Excellent build quality and easy to use.,07-06-2025
+54,Wireless Earbuds Pro,5,"Not bad, but could be improved.",06-10-2025
+55,Laptop Air 14,5,Stopped working after a few days.,13-05-2025
+56,Laptop Air 14,3,Stopped working after a few days.,29-01-2026
+57,Wireless Earbuds Pro,1,Customer support was not helpful at all.,25-11-2025
+58,Wireless Earbuds Pro,4,Very satisfied with the performance and battery life.,11-05-2025
+59,Fitness Tracker Z,2,Great quality and fast delivery. Highly recommended!,27-05-2025
+60,Wireless Earbuds Pro,1,"The product is okay, does the job.",19-01-2026
+61,Smartphone X12,1,Excellent build quality and easy to use.,30-04-2025
+62,Wireless Earbuds Pro,2,Delivery was on time but packaging was basic.,27-05-2025
+63,Bluetooth Speaker Max,4,Customer support was not helpful at all.,07-04-2025
+64,Fitness Tracker Z,1,Stopped working after a few days.,20-05-2025
+65,Bluetooth Speaker Max,4,Worth the money. Would definitely buy again.,16-08-2025
+66,Laptop Air 14,2,Worth the money. Would definitely buy again.,19-10-2025
+67,Bluetooth Speaker Max,1,Customer support was not helpful at all.,13-12-2025
+68,Wireless Earbuds Pro,1,"Average experience, nothing extraordinary.",03-04-2025
+69,Fitness Tracker Z,2,Excellent build quality and easy to use.,30-12-2025
+70,Bluetooth Speaker Max,5,Not worth the price.,06-12-2025
+71,Wireless Earbuds Pro,1,"Average experience, nothing extraordinary.",19-07-2025
+72,Bluetooth Speaker Max,1,"Average experience, nothing extraordinary.",11-10-2025
+73,Wireless Earbuds Pro,5,Very disappointed with the product quality.,18-11-2025
+74,Fitness Tracker Z,3,"Not bad, but could be improved.",24-11-2025
+75,Bluetooth Speaker Max,2,Stopped working after a few days.,29-11-2025
+76,Fitness Tracker Z,4,Worth the money. Would definitely buy again.,05-10-2025
+77,Bluetooth Speaker Max,1,Very disappointed with the product quality.,01-12-2025
+78,Smartphone X12,2,Stopped working after a few days.,02-09-2025
+79,Laptop Air 14,2,Customer support was not helpful at all.,28-09-2025
+80,Bluetooth Speaker Max,5,Stopped working after a few days.,30-07-2025
+81,Laptop Air 14,1,Very satisfied with the performance and battery life.,24-11-2025
+82,Laptop Air 14,3,"Not bad, but could be improved.",24-02-2025
+83,Fitness Tracker Z,4,Delivery was on time but packaging was basic.,19-06-2025
+84,Laptop Air 14,1,"The product is okay, does the job.",30-09-2025
+85,Wireless Earbuds Pro,5,Customer support was not helpful at all.,25-12-2025
+86,Smartphone X12,4,The product arrived damaged.,17-01-2026
+87,Laptop Air 14,2,Very disappointed with the product quality.,28-10-2025
+88,Bluetooth Speaker Max,4,Great quality and fast delivery. Highly recommended!,22-04-2025
+89,Laptop Air 14,2,Customer support was not helpful at all.,12-02-2026
+90,Wireless Earbuds Pro,4,Great quality and fast delivery. Highly recommended!,11-10-2025
+91,Laptop Air 14,2,"Not bad, but could be improved.",10-05-2025
+92,Laptop Air 14,4,Not worth the price.,12-12-2025
+93,Smartphone X12,2,Very disappointed with the product quality.,06-05-2025
+94,Wireless Earbuds Pro,3,Worth the money. Would definitely buy again.,11-06-2025
+95,Bluetooth Speaker Max,2,The product arrived damaged.,30-04-2025
+96,Laptop Air 14,5,Very disappointed with the product quality.,28-07-2025
+97,Laptop Air 14,2,Great quality and fast delivery. Highly recommended!,12-12-2025
+98,Wireless Earbuds Pro,3,Great quality and fast delivery. Highly recommended!,23-05-2025
+99,Fitness Tracker Z,5,It's fine for the price.,12-03-2025
+100,Laptop Air 14,2,Delivery was on time but packaging was basic.,23-05-2025
